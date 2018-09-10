@@ -1,0 +1,32 @@
+{
+    "name": "duration",
+    "version": "0.1.0",
+    "description": "converts time in seconds to duration",
+    "homepage": "https://github.com/fearphage/jq-duration",
+    "bugs": "https://github.com/fearphage/jq-duration/issues",
+    "author": {
+        "name": "Phred",
+        "url": "http://my.opera.com/fearphage/"
+    },
+    "main": "./duration.jq",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/fearphage/jq-duration.git"
+    },
+    "dependencies": {},
+    "engines": {
+        "jq": "^1.5.0",
+        "jqnpm": "^1.0.0"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }],
+    "keywords": [
+        "duration",
+        "jq-package",
+        "seconds",
+        "time conversion",
+        "time"
+    ]
+}
